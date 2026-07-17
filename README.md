@@ -5,4 +5,5 @@ this repo serves as the template repo. You can fork this repo and you can make t
 
 ## Repo Structure
 
-Refer to [this documentation](https://neetocoursehelp.neetokb.com/p/a-b68add58) to learn about how you need to structure your GitHub repo.
+Refer to [this documentation](https://neetocoursehelp.neetokb.com/p/a-b68add58) to learn about how you need to structure
+your GitHub repo.
